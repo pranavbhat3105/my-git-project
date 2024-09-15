@@ -1,2 +1,6 @@
 This is a new feature
+<<<<<<< HEAD
 Different change in main branch
+=======
+Fixing some feature issues
+>>>>>>> 
